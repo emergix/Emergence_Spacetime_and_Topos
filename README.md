@@ -64,7 +64,7 @@ Une logique intuitionniste n’a pas besoin d’être fondée sur un topos.
 
 
 
-📄 **Acceder a l'essai sur les topos quantiques (3)**: [CFS_topos_quantique](.CFS_topos_quantique.md)
+📄 **Acceder a l'essai sur les topos quantiques (3)**: [CFS_topos_quantique](./CFS_topos_quantique.md)
 
 
 
