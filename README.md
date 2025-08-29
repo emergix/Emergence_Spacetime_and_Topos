@@ -138,21 +138,25 @@ Cela permet de relier :
 > Une logique intuitionniste n’est pas forcément basée sur un topos, mais peut toujours être représentée dans un topos convenable.
 >
 
- * Theoreme Fondamental : *
+---
 
-En langage courant, on peut résumer le théorème de Kochen–Specker (et son expression via l’absence de section globale du spectral presheaf) ainsi :
+## 🌟 Théorème Fondamental (Kochen–Specker, version topos)
 
-Dans la mécanique quantique, il est impossible d’assigner à toutes les observables des valeurs bien définies simultanément, de façon cohérente avec les relations algébriques entre elles.
+> **Énoncé formel :**  
+> Dans la mécanique quantique, il est impossible d’assigner à toutes les observables des valeurs bien définies simultanément, de façon cohérente avec les relations algébriques entre elles.  
+>  
+> Formellement : il n’existe **aucune section globale** du *spectral presheaf*.  
 
-Formellement : pas de section globale du spectral presheaf.
+---
 
-En langage usuel : il n’y a pas de vérité absolue valable pour tous les contextes à la fois.
+### ✨ Interprétation en langage courant
+- **Pas de vérité absolue** : il n’existe pas de \(0/1\) universel qui tranche toutes les propositions.  
+- Ce qui existe, ce sont des **vérités contextuelles**, définies dans un certain cadre de mesure (un contexte abélien).  
+- La logique des topos rend cela naturel : les valeurs de vérité appartiennent à une **algèbre de Heyting**, exprimant le **degré** et le **contexte** de validité.  
 
-Ce qui existe, ce sont seulement des vérités contextuelles, définies à l’intérieur d’un certain « cadre de mesure » (un contexte abélien).
+👉 Contrairement à la logique classique (où une proposition est vraie ou fausse en soi), la logique des topos (adaptée à la MQ) affirme :  
 
-La logique des topos rend cela naturel : la vérité n’est pas un 
+> **« Une proposition peut être vraie dans un contexte, fausse dans un autre,  
+> et il n’existe pas de vérité globale absolue qui tranche une fois pour toutes. »**
 
-$$\(0/1\)$$  universel, mais une valeur dans une algèbre de Heyting qui exprime le degré et le contexte de validité.
-
-👉 Donc, là où la logique classique suppose qu’« une proposition est vraie ou fausse en soi », la logique des topos (adaptée à la MQ) affirme :
-« Une proposition peut être vraie dans un contexte, fausse dans un autre, et il n’existe pas de vérité globale absolue qui tranche une fois pour toutes. »
+---
