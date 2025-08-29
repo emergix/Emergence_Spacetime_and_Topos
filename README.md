@@ -117,10 +117,11 @@ Cela permet de relier :
 📄 **Reconstruction de la physique quantique sur un topos quantique (2)**: [principes_QM_dans_un_topos](./principes_QM_dans_un_topos.md)
 
 
-
 📄 **Reconstruction des CFS sur un topos quantique (3)**: [CFS_topos_quantique](./CFS_topos_quantique.md)
 
 📄 **Reconstruction des CFS sur un topos quantique, technique de Isham_Doring (4)**: [Isham_Doring_Topos](./Isham_Doring_Topos.md)
+
+📄 **Exemple d'algebre de heyting**: [Heyting_Algebra_Examples](./Heyting_Algebra_Examples.md)
 
 ## 5. Résumé
 
