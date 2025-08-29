@@ -76,3 +76,5 @@ En mécanique quantique standard :
 **Résumé final :**  
 Les **topos quantiques** offrent une alternative élégante au multivers pour le problème de la mesure.  
 Ils reformulent la mécanique quantique dans une logique intuitionniste interne, où la contextualité et l’absence de valeurs globales remplacent la prolifération de mondes parallèles.
+
+principes_QM_dans_un_topos
