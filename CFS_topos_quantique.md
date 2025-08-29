@@ -89,15 +89,15 @@ Deux approches principales :
 
 ```mermaid
 flowchart TD
-  H[Hilbert space H] --> F[Operators F]
-  F --> A[Algebre A = C*(F)]
-  A --> V[Contexts V(A)]
-  V --> E[Topos E = Set^(V(A)^op)]
-  E --> Sigma[Spectral presheaf Σ]
-  Sigma --> M[Support M (espace-temps interne)]
-  M -->|x,y| Axy[Closed chain A_xy]
-  Axy --> L[Lagrangien interne L(x,y)]
-  L --> S[Action interne S[μ]]
+  H[Hilbert_space_H] --> F[Operators_F]
+  F --> A[Alg_A = Cstar(F)]
+  A --> V[Contexts_VA]
+  V --> E[Topos_E = Set_of_presheaves]
+  E --> SPECT[Spectral_presheaf]
+  SPECT --> M[Support_M (internal_spacetime)]
+  M --> Axy[Closed_chain_A_xy]
+  Axy --> L[Lagrangian_L(x,y)]
+  L --> S[Action_S[mu]]
 ```
 
 ---
