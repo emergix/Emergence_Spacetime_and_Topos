@@ -14,8 +14,8 @@ Donc :
 \]
 
 ### Cas particulier des ensembles
-- Dans le topos des ensembles \(\mathbf{Set}\), on a \(\Omega = \{0,1\}\), qui est booléen.  
-- Donc \(\mathbf{Set}\) implémente une logique **classique** (un cas particulier de l’intuitionnisme avec tiers exclu).
+- Dans le topos des ensembles $$\(\mathbf{Set}\)$$, on a $$\(\Omega = \{0,1\}\)$$, qui est booléen.  
+- Donc $$\(\mathbf{Set}\)$$ implémente une logique **classique** (un cas particulier de l’intuitionnisme avec tiers exclu).
 
 **Conclusion :**  
 Tout topos implémente une logique intuitionniste. La logique classique n’apparaît que si le topos est booléen.
@@ -48,8 +48,8 @@ Une logique intuitionniste n’a pas besoin d’être fondée sur un topos.
 
 | Cadre                        | Logique interne               | Structure fondamentale |
 |-------------------------------|-------------------------------|------------------------|
-| \(\mathbf{Set}\) (ensembles)     | Classique (booléenne)         | Booléen \(\{0,1\}\) |
-| Topos général                 | Intuitionniste (Heyting)      | \(\Omega\) Heyting |
+| $$\(\mathbf{Set}\)$$ (ensembles)     | Classique (booléenne)         | Booléen $$\(\{0,1\}\)$$ |
+| Topos général                 | Intuitionniste (Heyting)      | $$\(\Omega\)$$ Heyting |
 | Logique intuitionniste pure   | Indépendante des topos        | Heyting algebra, Kripke |
 | Topos adapté au quantique     | Intuitionniste contextualisée | Presheaves, spectre    |
 
