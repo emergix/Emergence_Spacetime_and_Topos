@@ -57,6 +57,8 @@ Une logique intuitionniste n’a pas besoin d’être fondée sur un topos.
 
 ## 5. Topos quantiques
 
+📄 **Acceder a l'essai sur les topos**: [Trinite_quantique.pdf](./pdf/Trinite_quantique.pdf)
+
 
 ## 5. Résumé
 
