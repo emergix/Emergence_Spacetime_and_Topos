@@ -111,17 +111,6 @@ Les **principes quantiques** survivent au passage au topos : on garde l’unitar
 
 ## Schéma du flux logique (Mermaid)
 
-Etat_rho --> Prop_deltaP --> Truth_nu_rho --> Mesure?
-               ^                              /      \
-               |                             oui      non
-               |                              |         |
-               +-------------------------- Unitary   Update_T_rho_to_T_rho_P
-                                            Evolution         |
-                                                              v
-                                                      Top_in_contexts
-
-
-
 
 ```mermaid
 flowchart TD
