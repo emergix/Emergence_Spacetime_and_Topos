@@ -59,7 +59,7 @@ Une logique intuitionniste n’a pas besoin d’être fondée sur un topos.
 
 ### 1. Pourquoi les topos en physique quantique ?
 
-La mécanique quantique classique est fondée sur un espace de Hilbert et une logique **booléenne externe** (\(\{0,1\}\)) qui se heurte à deux difficultés :
+La mécanique quantique classique est fondée sur un espace de Hilbert et une logique **booléenne externe** $$(\(\{0,1\}\))$$ qui se heurte à deux difficultés :
 
 1. **Problème de la mesure** : la nécessité de postuler un collapse (ou d’invoquer des multivers) pour expliquer les résultats observés.  
 2. **Contextualité** (théorème de Kochen–Specker) : il est impossible d’assigner des valeurs globales cohérentes aux observables quantiques.
@@ -76,9 +76,9 @@ Ainsi, les topos fournissent une **formulation néo-réaliste et distributive** 
 ### 2. Pourquoi marier CFS et topos ?
 
 Les **Causal Fermion Systems (CFS)** de Felix Finster proposent une reformulation de la physique fondamentale basée sur :  
-- un espace de Hilbert \(\mathcal H\),  
+- un espace de Hilbert $$\(\mathcal H\)$$,  
 - une classe d’opérateurs fermioniques \(\mathcal F\),  
-- et une mesure universelle \(\rho\),  
+- et une mesure universelle $$\(\rho\)$$,  
 le tout minimisant une **action causale** qui encode la structure spatio-temporelle et dynamique.
 
 Les CFS capturent de manière élégante la causalité et la géométrie émergente, mais ils s’appuient sur un cadre essentiellement hilbertien et « externe » (classique).
@@ -96,7 +96,7 @@ Intégrer les CFS **à l’intérieur d’un topos quantique** permettrait :
 
 Développer les **CFS dans un topos quantique**, c’est construire :  
 - un **espace-temps interne** défini comme support d’une mesure universelle intuitionniste ;  
-- une **action causale interne** formulée avec des réels généralisés \(\mathbb R^{\leftrightarrow}\) ;  
+- une **action causale interne** formulée avec des réels généralisés $$\(\mathbb R^{\leftrightarrow}\)$$ ;  
 - une **logique de la mesure** non booléenne, mais distributive, remplaçant l’axiomatique multivers/collapse.
 
 En résumé : le cadre topos offre à la théorie de Finster un environnement logique et catégorique adapté pour dépasser les limites de la formulation hilbertienne classique et proposer une vision unifiée, néo-réaliste et computationnellement robuste de la physique quantique et de l’espace-temps.
@@ -106,7 +106,7 @@ En résumé : le cadre topos offre à la théorie de Finster un environnement lo
 ###  Reconstruction des Causal Fermion Systems (CFS) au-dessus d’un topos quantique
 
 #### Objectif
-Reformuler un Causal Fermion System (CFS) \((\mathcal H,\ \mathcal F,\ \rho)\) — avec \(\mathcal H\) hilbertien, \(\mathcal F\subset \mathcal L(\mathcal H)\) ensemble d’opérateurs auto-adjoints de rang fini (contrôlé par la spin-dimension), et \(\rho\) mesure universelle — comme **données internes** d’un **topos quantique**.  
+Reformuler un Causal Fermion System (CFS) $$\((\mathcal H,\ \mathcal F,\ \rho)\)$$ — avec $$\(\mathcal H\)$$ hilbertien, $$\(\mathcal F\subset \mathcal L(\mathcal H)\)$$ ensemble d’opérateurs auto-adjoints de rang fini (contrôlé par la spin-dimension), et $$\(\rho\)$$ mesure universelle — comme **données internes** d’un **topos quantique**.  
 Cela permet de relier :  
 - la **variation causale** de Finster,  
 - et la **logique intuitionniste** des topos (Isham, Döring, Heunen–Landsman–Spitters).
@@ -124,7 +124,7 @@ Cela permet de relier :
 
 ## 5. Résumé
 
-- Tout topos implémente une **logique intuitionniste** (par \(\Omega\)).  
+- Tout topos implémente une **logique intuitionniste** (par $$\(\Omega\))$$.  
 - La logique classique est un cas particulier (topos booléen).  
 - Une logique intuitionniste peut exister **sans topos** (via Heyting ou Kripke).  
 - Mais toute logique intuitionniste peut être représentée dans un topos approprié (ex. faisceaux, classifying topos).
