@@ -9,9 +9,9 @@ Relations between Emergence of spacetime, quantum physics and topos
 - Une algèbre de Heyting est exactement la structure algébrique correspondant à la **logique intuitionniste**.  
 
 Donc :  
-\[
+$$\[
 \text{Topos interne } \longleftrightarrow \text{Logique intuitionniste}
-\]
+\]$$
 
 ### Cas particulier des ensembles
 - Dans le topos des ensembles $$\(\mathbf{Set}\)$$, on a $$\(\Omega = \{0,1\}\)$$, qui est booléen.  
