@@ -63,6 +63,11 @@ Une logique intuitionniste n’a pas besoin d’être fondée sur un topos.
 📄 **Acceder a l'essai sur les topos quantiques (2)**: [blog](./principes_QM_dans_un_topos.md)
 
 
+
+📄 **Acceder a l'essai sur les topos quantiques (3)**: [blog](.CFS_topos_quantique.md)
+
+
+
 ## 5. Résumé
 
 - Tout topos implémente une **logique intuitionniste** (par \(\Omega\)).  
