@@ -120,7 +120,7 @@ Cela permet de relier :
 
 📄 **Reconstruction des CFS sur un topos quantique (3)**: [CFS_topos_quantique](./CFS_topos_quantique.md)
 
-
+📄 **Reconstruction des CFS sur un topos quantique, technique de Isham_Doring (4)**: [Isham_Doring_Topos](./Isham_Doring_Topos.md)
 
 ## 5. Résumé
 
