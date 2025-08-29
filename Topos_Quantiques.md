@@ -13,7 +13,7 @@ En mécanique quantique standard :
 
 - Utiliser la **théorie des topos** pour reformuler la logique quantique.  
 - Principe : remplacer l’espace d’états classique par un **objet d’états interne** à un topos.  
-- Les valeurs de vérité ne sont plus booléennes \(\{0,1\}\), mais appartiennent à une **algèbre de Heyting** (logique intuitionniste).  
+- Les valeurs de vérité ne sont plus booléennes $$\(\{0,1\}\)$$, mais appartiennent à une **algèbre de Heyting** (logique intuitionniste).  
 
 **Conséquence :**  
 - Pas besoin de collapse.  
@@ -23,19 +23,19 @@ En mécanique quantique standard :
 ## 3. Construction (Isham–Döring, Heunen–Landsman–Spitters)
 
 1. **Système quantique** : algèbre de von Neumann \(\mathcal N\) des observables.  
-2. **Contextes** : catégorie \(\mathcal V(\mathcal N)\) des sous-algèbres **abéliennes** de \(\mathcal N\).  
-3. **Topos** : catégorie des préfaisceaux \(\mathbf{Set}^{\mathcal V(\mathcal N)^{op}}\).  
+2. **Contextes** : catégorie $$\(\mathcal V(\mathcal N)\)$$ des sous-algèbres **abéliennes** de $$\(\mathcal N\)$$.  
+3. **Topos** : catégorie des préfaisceaux $$\(\mathbf{Set}^{\mathcal V(\mathcal N)^{op}}\)$$.  
 4. **Objet d’états** : le **spectral presheaf** \(\Sigma\).  
    - Pas de sections globales (↔ théorème de Kochen–Specker).  
-5. **Propositions** : les projecteurs \(P\) sont envoyés vers des sous-objets de \(\Sigma\) (via la **daseinisation**).  
+5. **Propositions** : les projecteurs $$\(P\)$$ sont envoyés vers des sous-objets de $$\(\Sigma\)$$ (via la **daseinisation**).  
 6. **États et vérités** : un état \(\rho\) définit un **truth object** qui assigne des valeurs de vérité intuitionnistes (cribles sur les contextes).  
 
 ## 4. Exemple : le qubit
 
-- Observables : \(\sigma_x, \sigma_y, \sigma_z\).  
+- Observables : $$\(\sigma_x, \sigma_y, \sigma_z\)$$.  
 - Contextes : algèbres engendrées par chacun.  
-- Proposition « \(\sigma_z = +1\) » : projecteur \(P_z^+\).  
-- Sa daseinisation est vraie (top) dans les contextes contenant \(\sigma_z\), et « partiellement vraie » ailleurs (valeur Heyting).  
+- Proposition « $$\(\sigma_z = +1\)$$ » : projecteur $$\(P_z^+\)$$.  
+- Sa daseinisation est vraie (top) dans les contextes contenant $$\(\sigma_z\)$$, et « partiellement vraie » ailleurs (valeur Heyting).  
 - La mesure est alors une **mise à jour interne** du truth object, non un collapse externe.
 
 ## 5. Comparaison avec le multivers
