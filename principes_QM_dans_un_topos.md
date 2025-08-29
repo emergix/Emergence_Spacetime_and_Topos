@@ -113,12 +113,12 @@ Les **principes quantiques** survivent au passage au topos : on garde l’unitar
 
 ```mermaid
 flowchart LR
-  A[État \rho (truth object)] --> B[Proposition \n \delta(P_{A\in\Delta})]
-  B --> C[Évaluation \n valeur de vérité \n \nu_\rho(A\in\Delta)\in\Gamma\Omega]
+  A[Etat rho (truth object)] --> B[Proposition<br/>daseinisation: delta(P_{A in Delta})]
+  B --> C[Evaluation<br/>valeur de verite<br/>nu_rho(A in Delta) in Gamma(Omega)]
   C --> D{Mesure / issue ?}
-  D -- oui --> E[Mise à jour interne \n \mathbb T_{\rho} \Rightarrow \mathbb T_{\rho|P}]
-  D -- non --> F[Évolution unitaire interne \n (automorphismes)]
-  E --> G[Vérité devenue top \n dans les contextes pertinents]
+  D -- oui --> E[Mise a jour interne<br/>T_rho => T_{rho|P}]
+  D -- non --> F[Evolution unitaire interne<br/>(automorphismes)]
+  E --> G[Verite devenue top<br/>dans les contextes pertinents]
   F --> B
 ```
 
