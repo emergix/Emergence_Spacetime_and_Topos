@@ -112,13 +112,13 @@ Les **principes quantiques** survivent au passage au topos : on garde l’unitar
 ## Schéma du flux logique (Mermaid)
 
 ```mermaid
-flowchart LR
-  A[Etat rho (truth object)] --> B[Proposition<br/>daseinisation: delta(P_{A in Delta})]
-  B --> C[Evaluation<br/>valeur de verite<br/>nu_rho(A in Delta) in Gamma(Omega)]
-  C --> D{Mesure / issue ?}
-  D -- oui --> E[Mise a jour interne<br/>T_rho => T_{rho|P}]
-  D -- non --> F[Evolution unitaire interne<br/>(automorphismes)]
-  E --> G[Verite devenue top<br/>dans les contextes pertinents]
+flowchart TD
+  A[Etat rho (truth object)] --> B[Proposition: delta(P)]
+  B --> C[Evaluation de verite: nu_rho(P) in Gamma(Omega)]
+  C --> D{Mesure ?}
+  D -- oui --> E[Mise a jour interne: T_rho -> T_rho|P]
+  D -- non --> F[Evolution unitaire (automorphismes)]
+  E --> G[Verite = top dans les contextes pertinents]
   F --> B
 ```
 
