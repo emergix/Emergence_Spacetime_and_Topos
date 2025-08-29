@@ -33,7 +33,7 @@ Ce document montre comment reformuler les **principes de la mécanique quantique
 
 ### (C) Propositions logiques
 - **Standard :** propositions $$\((A\in\Delta)\)$$ évaluées en $$\(\{0,1\}\)$$.
-- **Topos :** $$\llbracket A\in\Delta\rrbracket_\rho \in \Gamma\Omega$$ est un **crible** (valeur Heyting) : l’ensemble des contextes au-dessus desquels la proposition devient vraie. La logique est **distributive** (avantage par rapport à l’orthomodularité).
+- **Topos :** $\llbracket A\in\Delta\rrbracket_\rho \in \Gamma\Omega$ est un **crible** (valeur Heyting) : l’ensemble des contextes au-dessus desquels la proposition devient vraie. La logique est **distributive** (avantage par rapport à l’orthomodularité).
 
 ### (D) Probabilités & règle de Born
 - **Standard :** $$\( \Pr_\rho(A\in\Delta)=\mathrm{tr}(\rho\,P_{A\in\Delta}) \)$$.
