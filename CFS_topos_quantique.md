@@ -88,16 +88,28 @@ Deux approches principales :
 ## 7. Schéma (Mermaid)
 
 ```mermaid
-flowchart TD
-  H[Hilbert_space_H] --> F[Operators_F]
-  F --> A[Alg_A = Cstar(F)]
-  A --> V[Contexts_VA]
-  V --> E[Topos_E = Set_of_presheaves]
-  E --> SPECT[Spectral_presheaf]
-  SPECT --> M[Support_M (internal_spacetime)]
-  M --> Axy[Closed_chain_A_xy]
-  Axy --> L[Lagrangian_L(x,y)]
-  L --> S[Action_S[mu]]
+graph TD
+  H[Hilbert_space_H]
+  F[Operators_F]
+  A[AlgA_CstarF]
+  V[Contexts_VA]
+  E[Topos_E_presheaves]
+  SPECT[Spectral_presheaf]
+  M[Support_M_internal_spacetime]
+  Axy[Closed_chain_A_xy]
+  L[Lagrangian_L_xy]
+  S[Action_S_mu]
+
+  H --> F
+  F --> A
+  A --> V
+  V --> E
+  E --> SPECT
+  SPECT --> M
+  M --> Axy
+  Axy --> L
+  L --> S
+
 ```
 
 ---
