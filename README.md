@@ -103,22 +103,22 @@ En résumé : le cadre topos offre à la théorie de Finster un environnement lo
 
 ---
 
-# Reconstruction des Causal Fermion Systems (CFS) au-dessus d’un topos quantique
+###  Reconstruction des Causal Fermion Systems (CFS) au-dessus d’un topos quantique
 
-### Objectif
+#### Objectif
 Reformuler un Causal Fermion System (CFS) \((\mathcal H,\ \mathcal F,\ \rho)\) — avec \(\mathcal H\) hilbertien, \(\mathcal F\subset \mathcal L(\mathcal H)\) ensemble d’opérateurs auto-adjoints de rang fini (contrôlé par la spin-dimension), et \(\rho\) mesure universelle — comme **données internes** d’un **topos quantique**.  
 Cela permet de relier :  
 - la **variation causale** de Finster,  
 - et la **logique intuitionniste** des topos (Isham, Döring, Heunen–Landsman–Spitters).
 
-📄 **Acceder a l'essai sur les topos quantiques (1)**: [Topos_Quantiques](./Topos_Quantiques.md)
+📄 **Presentation generale sur les topos quantiques (1)**: [Topos_Quantiques](./Topos_Quantiques.md)
 
 
-📄 **Acceder a l'essai sur les topos quantiques (2)**: [principes_QM_dans_un_topos](./principes_QM_dans_un_topos.md)
+📄 **Reconstruction de la physique quantique sur un topos quantique (2)**: [principes_QM_dans_un_topos](./principes_QM_dans_un_topos.md)
 
 
 
-📄 **Acceder a l'essai sur les topos quantiques (3)**: [CFS_topos_quantique](./CFS_topos_quantique.md)
+📄 **Reconstruction des CFS sur un topos quantique (3)**: [CFS_topos_quantique](./CFS_topos_quantique.md)
 
 
 
