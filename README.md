@@ -4,7 +4,7 @@ Relations between Emergence of spacetime, quantum physics and topos
 
 ## 1. Logique intuitionniste et topos
 
-- Tout **topos élémentaire** possède un **classificateur de sous-objets** \(\Omega\).  
+- Tout **topos élémentaire** possède un **classificateur de sous-objets** $$\(\Omega\)$$.  
 - Cet objet $$\(\Omega\)$$ est une **algèbre de Heyting**.  
 - Une algèbre de Heyting est exactement la structure algébrique correspondant à la **logique intuitionniste**.  
 
