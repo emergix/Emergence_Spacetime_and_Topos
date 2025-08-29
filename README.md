@@ -150,8 +150,8 @@ En langage usuel : il n’y a pas de vérité absolue valable pour tous les cont
 Ce qui existe, ce sont seulement des vérités contextuelles, définies à l’intérieur d’un certain « cadre de mesure » (un contexte abélien).
 
 La logique des topos rend cela naturel : la vérité n’est pas un 
-0/1
-0/1 universel, mais une valeur dans une algèbre de Heyting qui exprime le degré et le contexte de validité.
+
+$$\(0/1\)$$  universel, mais une valeur dans une algèbre de Heyting qui exprime le degré et le contexte de validité.
 
 👉 Donc, là où la logique classique suppose qu’« une proposition est vraie ou fausse en soi », la logique des topos (adaptée à la MQ) affirme :
 « Une proposition peut être vraie dans un contexte, fausse dans un autre, et il n’existe pas de vérité globale absolue qui tranche une fois pour toutes. »
