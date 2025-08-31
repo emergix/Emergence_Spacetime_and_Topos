@@ -91,6 +91,9 @@ Intégrer les CFS **à l’intérieur d’un topos quantique** permettrait :
 4. **Ouvrir vers la gravité quantique** : les CFS visent une formulation unifiée de l’espace-temps et de la matière ; les topos fournissent un langage flexible pour intégrer contextualité et localité, utiles en cosmologie et en gravité quantique.
 
 ---
+## premiere etape: formalisation de la creation de maniere intrinseque:
+
+📄 **Read the paper**: [Topos_createur](./Topos_createur.pdf)
 
 ### 3. Vision
 
