@@ -131,6 +131,18 @@ Cela permet de relier :
 
 📄 **Exemple d'algebre de heyting**: [Heyting_Algebra_Examples](./Heyting_Algebra_Examples.md)
 
+## Etude de l'equation de Wheeler-DeWitt au dessus du topos de creation
+
+📄 ** jet-1 **: [CFS_Topos_](./CFS_Topos_1.pdf)
+
+📄 ** jet-2 **: [CFS_Topos_2](./CFS_Topos_2.pdf)
+
+📄 ** jet-3 **: [CFS_Topos_3](./CFS_Topos_3.pdf)
+
+📄 ** jet-4 **: [CFS_Topos_4](./CFS_Topos_4.pdf)
+
+📄 ** jet-5 **: [CFS_Topos_5](./CFS_Topos_5.pdf)
+
 ## 5. Résumé
 
 - Tout topos implémente une **logique intuitionniste** (par $$\(\Omega\))$$.  
