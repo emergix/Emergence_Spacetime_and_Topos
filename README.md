@@ -128,7 +128,7 @@ Cela permet de relier :
 - Tout topos implémente une **logique intuitionniste** (par $$\(\Omega\))$$.  
 - La logique classique est un cas particulier (topos booléen).  
 - Une logique intuitionniste peut exister **sans topos** (via Heyting ou Kripke).  
-- Mais toute logique intuitionniste peut être représentée dans un topos approprié (ex. faisceaux, classifying topos).
+- Mais toute logique intuitionniste peut être représentée dans un topos approprié (ex. faisceaux,  topos classifiant).
 
 ---
 
@@ -145,7 +145,7 @@ Cela permet de relier :
 > **Énoncé formel :**  
 > Dans la mécanique quantique, il est impossible d’assigner à toutes les observables des valeurs bien définies simultanément, de façon cohérente avec les relations algébriques entre elles.  
 >  
-> Formellement : il n’existe **aucune section globale** du *spectral presheaf*.  
+> Formellement : il n’existe **aucune section globale** du prefaisceau spectral (spectral presheaf*).  
 
 ---
 
