@@ -105,9 +105,7 @@ Dans CFS, $\rho$ et les **closed chains** $A_{xy}$ codent la causalité. Avec la
 - $\mathcal E^{\mathrm{meas}}_U$ : topos où « $\sigma_z=+1$ » est **vrai booléen** (localement).  
 - **Information créée** : 
 
-  $$
-  \Delta \mathcal I(U) = -\log \boldsymbol\mu(U).
-  $$
+  $$\Delta \mathcal I(U) = -\log \boldsymbol\mu(U)$$
 
 ---
 
