@@ -20,7 +20,7 @@ On associe à $U$ deux étapes **canoniques** :
 
 1. **Slicing (conditionnement interne)**  
    On passe au **slice topos** $\mathcal E/U$, qui internalise le fait que l’univers est considéré **sous la condition** $U$.  
-   - La valuation se **conditionne** : $$\boldsymbol\mu \rightsquigarrow \boldsymbol\mu_{|U}$ sur $\mathrm{Sub}(\Sigma)_{|U}$$.  
+   - La valuation se **conditionne** : $$\boldsymbol\mu \rightsquigarrow \boldsymbol\mu_{|U}$$ sur $$\mathrm{Sub}(\Sigma)_{|U}$$.  
    - Les vérités deviennent **contextuelles relatives** à $U$.
 
 2. **Localisation logique (sheafification via Lawvere–Tierney)**  
