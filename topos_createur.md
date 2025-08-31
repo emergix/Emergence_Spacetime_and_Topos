@@ -10,7 +10,7 @@ Formellement, une mesure est modélisée par un **morphisme géométrique** qui 
 - Topos quantique $\mathcal{E}$ (par ex. presheaves contravariants sur $V(A)$) avec :
   - **spectral presheaf** $\Sigma$,
   - **classificateur** $\Omega$ (Heyting),
-  - **valuation interne** $\boldsymbol{\mu}:\mathrm{Sub}(\Sigma)\to [0,1]^{\leftrightarrow}$ (règle de Born internalisée).
+  - **valuation interne** $\mathbf{\mu} \rightsquigarrow \mathbf{\mu}_{|U}$ sur $\text{Sub}(\Sigma)_{|U}$ (règle de Born internalisée).
 - Un **événement de mesure** est représenté par un **sous-objet** $U \hookrightarrow \Sigma$ (la proposition « le résultat appartient à $U$ »).
 
 ---
