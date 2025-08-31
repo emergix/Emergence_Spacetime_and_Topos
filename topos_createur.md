@@ -25,8 +25,8 @@ On associe à $U$ deux étapes **canoniques** :
 
 2. **Localisation logique (sheafification via Lawvere–Tierney)**  
    On choisit une topologie interne $j_U:\Omega\to\Omega$ rendant **décidable** (stable/fermé) le sous-objet $U$.  
-   - On forme le **sous-topos** $\mathrm{Sh}_{j_U}(\mathcal E/U)$ avec foncteur de **sheafification** $a_{j_U}:\mathcal E/U\to \mathrm{Sh}_{j_U}(\mathcal E/U)$ (gauche exacte).  
-   - Dans $\mathrm{Sh}_{j_U}(\mathcal E/U)$, la proposition « $U$ » est **booléenne** (on a créé la décidabilité du résultat).
+   - On forme le **sous-topos** $$\mathrm{Sh}_{j_U}(\mathcal E/U)$$ avec foncteur de **sheafification** $$a_{j_U}:\mathcal E/U\to \mathrm{Sh}_{j_U}(\mathcal E/U)$$ (gauche exacte).  
+   - Dans $$\mathrm{Sh}_{j_U}(\mathcal E/U)$$, la proposition « $U$ » est **booléenne** (on a créé la décidabilité du résultat).
 
 **Définition (Mesure créatrice).**  
 Une **mesure créatrice** est le morphisme géométrique composé
