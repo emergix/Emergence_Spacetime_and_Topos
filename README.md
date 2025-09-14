@@ -93,7 +93,7 @@ Intégrer les CFS **à l’intérieur d’un topos quantique** permettrait :
 ---
 ## Formalisation de la creation de maniere intrinseque:
 ### Prerequisites Mathematique
-Nous avons besoin de la notion de faicseau spectral et de morphisme geometrique
+Nous avons besoin de la notion de faisceau spectral et de morphisme geometrique
 
 📄 **Introduction a ces notions**: [FaiceauSpectral_MorphismeGeometrique](./FaiceauSpectral_MorphismeGeometrique.pdf)
 
