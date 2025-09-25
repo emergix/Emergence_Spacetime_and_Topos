@@ -161,7 +161,7 @@ Cela permet de relier :
 
 
 
-### 10) Topos as a modeling tool for measurement
+### 10) The Undecidable Universe and the Creative Act of Measurement:Topos, Decoherence and the Emergence of Time
 
 > *Ce texte explore l’idée d’un univers fondamentalement indécidable, où la mesure n’est pas un effondrement mais un acte créateur d’information logique.
 >  En combinant topos et systèmes fermioniques causaux (CFS), il propose que le temps et la gravité émergent comme cohérences locales issues de la décohérence,
