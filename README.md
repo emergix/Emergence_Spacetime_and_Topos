@@ -171,8 +171,8 @@ Cela permet de relier :
 
 [![PDF](https://img.shields.io/badge/PDF-English-0b5fff)](./papers/Indecidabilité_Univers_EN.pdf)
 [![PDF](https://img.shields.io/badge/PDF-Français-ff486e)](./papers/Indecidabilité_Univers_FR.pdf)
-![Tag](https://img.shields.io/badge/Indecidabilité_Univers-lightgrey)
-![Tag](https://img.shields.io/badge/Indecidabilité_Univers-lightgrey)
+![Tag](https://img.shields.io/badge/Undecidability-lightgrey)
+![Tag](https://img.shields.io/badge/Measurement-lightgrey)
 
 **Formulation finale :**  
 
