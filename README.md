@@ -145,8 +145,22 @@ Cela permet de relier :
 
 ---
 
+### 3) Topos and Causal Fermion Systems: Undecidability, Decoherence, and the Emergence of Time
 
-### 10) Topos and Causal Fermion Systems: Undecidability, Decoherence, and the Emergence of Time
+> *Ce travail propose un cadre unifié combinant topos et systèmes fermioniques causaux (CFS) pour traiter l’indécidabilité, la décohérence et l’émergence du temps.
+> La logique intuitionniste des topos permet de localiser l’indécidabilité, tandis que la mesure ρ des CFS encode les corrélations fermioniques dont émergent métrique et temps effectif.
+>  La décohérence est interprétée comme une transition de phase corrélationnelle, détectable par invariants quantitatifs (pureté, entropie, OTOC, signatures topologiques).
+>  Trois lois falsifiables relient complexité, accidents CFS et constante cosmologique. Ce cadre offre des signatures observationnelles testables (CMB, LSS, ondes gravitationnelles),
+>  constituant une alternative aux approches LQG et cordes*
+
+[![PDF](https://img.shields.io/badge/PDF-English-0b5fff)](./papers/Topos_createur_EN.pdf)
+[![PDF](https://img.shields.io/badge/PDF-Français-ff486e)](./papers/Topos_createur_FR.pdf)
+![Tag](https://img.shields.io/badge/Topos-lightgrey)
+![Tag](https://img.shields.io/badge/Causal-Fermion-Systems-lightgrey)
+
+
+
+### 3) Topos and Causal Fermion Systems: Undecidability, Decoherence, and the Emergence of Time
 
 > *Ce travail propose un cadre unifié combinant topos et systèmes fermioniques causaux (CFS) pour traiter l’indécidabilité, la décohérence et l’émergence du temps.
 > La logique intuitionniste des topos permet de localiser l’indécidabilité, tandis que la mesure ρ des CFS encode les corrélations fermioniques dont émergent métrique et temps effectif.
@@ -161,7 +175,7 @@ Cela permet de relier :
 
 
 
-### 10) The Undecidable Universe and the Creative Act of Measurement:Topos, Decoherence and the Emergence of Time
+### 4) The Undecidable Universe and the Creative Act of Measurement:Topos, Decoherence and the Emergence of Time
 
 > *Ce texte explore l’idée d’un univers fondamentalement indécidable, où la mesure n’est pas un effondrement mais un acte créateur d’information logique.
 >  En combinant topos et systèmes fermioniques causaux (CFS), il propose que le temps et la gravité émergent comme cohérences locales issues de la décohérence,
