@@ -111,9 +111,9 @@ En résumé : le cadre topos offre à la théorie de Finster un environnement lo
 
 ---
 
-###  Reconstruction des Causal Fermion Systems (CFS) au-dessus d’un topos quantique
+##  Reconstruction des Causal Fermion Systems (CFS) au-dessus d’un topos quantique
 
-#### Objectif
+### Objectif
 Reformuler un Causal Fermion System (CFS) $$\((\mathcal H,\ \mathcal F,\ \rho)\)$$ — avec $$\(\mathcal H\)$$ hilbertien, $$\(\mathcal F\subset \mathcal L(\mathcal H)\)$$ ensemble d’opérateurs auto-adjoints de rang fini (contrôlé par la spin-dimension), et $$\(\rho\)$$ mesure universelle — comme **données internes** d’un **topos quantique**.  
 Cela permet de relier :  
 - la **variation causale** de Finster,  
@@ -133,10 +133,6 @@ Cela permet de relier :
 
 ## Etude de l'equation de Wheeler-DeWitt au dessus du topos de creation
 
-
-📄 ** Analyse : **: [CFS_Topos_5](./papers/CFS_Topos_5.pdf)
-
-## 5. Résumé
 
 - Tout topos implémente une **logique intuitionniste** (par $$\(\Omega\))$$.  
 - La logique classique est un cas particulier (topos booléen).  
@@ -158,6 +154,7 @@ Cela permet de relier :
 ![Tag](https://img.shields.io/badge/Wheeler_de_Witt-lightgrey)
 
 ---
+## Indecidabilité et Topoi
 
 ### 2) Topos and Causal Fermion Systems: Undecidability, Decoherence, and the Emergence of Time
 
