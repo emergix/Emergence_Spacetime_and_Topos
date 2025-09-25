@@ -156,8 +156,8 @@ Cela permet de relier :
 
 [![PDF](https://img.shields.io/badge/PDF-English-0b5fff)](./papers/Topos_TimeEmergence_EN.pdf)
 [![PDF](https://img.shields.io/badge/PDF-Français-ff486e)](./papers/Topos_TimeEmergence_FR.pdf)
-![Tag](https://img.shields.io/badge/Topos_TimeEmergence-lightgrey)
-![Tag](https://img.shields.io/badge/Topos_TimeEmergence-lightgrey)
+![Tag](https://img.shields.io/badge/Topos-lightgrey)
+![Tag](https://img.shields.io/badge/Causal-Fermion-Systems-lightgrey)
 
 
 
