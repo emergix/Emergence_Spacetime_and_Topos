@@ -134,7 +134,7 @@ Cela permet de relier :
 ## Etude de l'equation de Wheeler-DeWitt au dessus du topos de creation
 
 
-📄 ** Analyse : **: [CFS_Topos_5](./CFS_Topos_5.pdf)
+📄 ** Analyse : **: [CFS_Topos_5](./papers/CFS_Topos_5.pdf)
 
 ## 5. Résumé
 
@@ -154,8 +154,8 @@ Cela permet de relier :
 >  where refinement of truths replaces temporal evolution. Applied to Causal Fermion Systems, measurement localizes causal predicates and re-optimizes the action, offering a coherent,
 >  information-theoretic interpretation of quantum measurement.*
 
-[![PDF](https://img.shields.io/badge/PDF-English-0b5fff)](./papers/Topos_createur_EN.pdf)
-[![PDF](https://img.shields.io/badge/PDF-Français-ff486e)](./papers/Topos_createur_FR.pdf)
+[![PDF](https://img.shields.io/badge/PDF-English-0b5fff)](./papers/Topos_TimeEmergence_EN.pdf)
+[![PDF](https://img.shields.io/badge/PDF-Français-ff486e)](./papers/Topos_TimeEmergence_FR.pdf)
 ![Tag](https://img.shields.io/badge/QuantumMeasurement-lightgrey)
 ![Tag](https://img.shields.io/badge/ToposLogic-lightgrey)
 
@@ -169,8 +169,8 @@ Cela permet de relier :
 >  where refinement of truths replaces temporal evolution. Applied to Causal Fermion Systems, measurement localizes causal predicates and re-optimizes the action, offering a coherent,
 >  information-theoretic interpretation of quantum measurement.*
 
-[![PDF](https://img.shields.io/badge/PDF-English-0b5fff)](./papers/Topos_createur_EN.pdf)
-[![PDF](https://img.shields.io/badge/PDF-Français-ff486e)](./papers/Topos_createur_FR.pdf)
+[![PDF](https://img.shields.io/badge/PDF-English-0b5fff)](./papers/Indecidabilité_Univers_EN.pdf)
+[![PDF](https://img.shields.io/badge/PDF-Français-ff486e)](./papers/Indecidabilité_Univers_FR.pdf)
 ![Tag](https://img.shields.io/badge/QuantumMeasurement-lightgrey)
 ![Tag](https://img.shields.io/badge/ToposLogic-lightgrey)
 
