@@ -148,31 +148,31 @@ Cela permet de relier :
 
 ### 10) Topos as a modeling tool for measurement
 
-> *This paper develops the notion of creative measurement, reframing quantum measurement as an act of creation rather than collapse.
-> Using topos theory, a measurement is modeled as a geometric morphism that transforms the pre-measurement topos into one where the result becomes decidable (Boolean) within its context.
->  This process is atemporal, independent of entropy, and quantifies new logical information via ΔI(U) = –log µ(U). The framework aligns with the Wheeler–DeWitt equation,
->  where refinement of truths replaces temporal evolution. Applied to Causal Fermion Systems, measurement localizes causal predicates and re-optimizes the action, offering a coherent,
->  information-theoretic interpretation of quantum measurement.*
+> *Ce travail propose un cadre unifié combinant topos et systèmes fermioniques causaux (CFS) pour traiter l’indécidabilité, la décohérence et l’émergence du temps.
+> La logique intuitionniste des topos permet de localiser l’indécidabilité, tandis que la mesure ρ des CFS encode les corrélations fermioniques dont émergent métrique et temps effectif.
+>  La décohérence est interprétée comme une transition de phase corrélationnelle, détectable par invariants quantitatifs (pureté, entropie, OTOC, signatures topologiques).
+>  Trois lois falsifiables relient complexité, accidents CFS et constante cosmologique. Ce cadre offre des signatures observationnelles testables (CMB, LSS, ondes gravitationnelles),
+>  constituant une alternative aux approches LQG et cordes*
 
 [![PDF](https://img.shields.io/badge/PDF-English-0b5fff)](./papers/Topos_TimeEmergence_EN.pdf)
 [![PDF](https://img.shields.io/badge/PDF-Français-ff486e)](./papers/Topos_TimeEmergence_FR.pdf)
-![Tag](https://img.shields.io/badge/QuantumMeasurement-lightgrey)
-![Tag](https://img.shields.io/badge/ToposLogic-lightgrey)
+![Tag](https://img.shields.io/badge/Topos_TimeEmergence-lightgrey)
+![Tag](https://img.shields.io/badge/Topos_TimeEmergence-lightgrey)
 
 
 
 ### 10) Topos as a modeling tool for measurement
 
-> *This paper develops the notion of creative measurement, reframing quantum measurement as an act of creation rather than collapse.
-> Using topos theory, a measurement is modeled as a geometric morphism that transforms the pre-measurement topos into one where the result becomes decidable (Boolean) within its context.
->  This process is atemporal, independent of entropy, and quantifies new logical information via ΔI(U) = –log µ(U). The framework aligns with the Wheeler–DeWitt equation,
->  where refinement of truths replaces temporal evolution. Applied to Causal Fermion Systems, measurement localizes causal predicates and re-optimizes the action, offering a coherent,
->  information-theoretic interpretation of quantum measurement.*
+> *Ce texte explore l’idée d’un univers fondamentalement indécidable, où la mesure n’est pas un effondrement mais un acte créateur d’information logique.
+>  En combinant topos et systèmes fermioniques causaux (CFS), il propose que le temps et la gravité émergent comme cohérences locales issues de la décohérence,
+> comprise comme transition corrélationnelle. Les constantes fondamentales deviennent des bornes de complexité computationnelle garantissant la faisabilité des lois physiques.
+>  Le temps computationnel est défini comme frontière dynamique entre le « décidé » et l’« indécidable ». Enfin, l’évolution humaine et l’IA participent à une co-création cosmique,
+>  inscrivant l’humanité dans le processus créateur universel.*
 
 [![PDF](https://img.shields.io/badge/PDF-English-0b5fff)](./papers/Indecidabilité_Univers_EN.pdf)
 [![PDF](https://img.shields.io/badge/PDF-Français-ff486e)](./papers/Indecidabilité_Univers_FR.pdf)
-![Tag](https://img.shields.io/badge/QuantumMeasurement-lightgrey)
-![Tag](https://img.shields.io/badge/ToposLogic-lightgrey)
+![Tag](https://img.shields.io/badge/Indecidabilité_Univers-lightgrey)
+![Tag](https://img.shields.io/badge/Indecidabilité_Univers-lightgrey)
 
 **Formulation finale :**  
 
