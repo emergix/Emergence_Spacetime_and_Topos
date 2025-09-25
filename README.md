@@ -147,11 +147,11 @@ Cela permet de relier :
 
 ### 3) Topos and Causal Fermion Systems: Undecidability, Decoherence, and the Emergence of Time
 
-> *Ce travail propose un cadre unifié combinant topos et systèmes fermioniques causaux (CFS) pour traiter l’indécidabilité, la décohérence et l’émergence du temps.
-> La logique intuitionniste des topos permet de localiser l’indécidabilité, tandis que la mesure ρ des CFS encode les corrélations fermioniques dont émergent métrique et temps effectif.
->  La décohérence est interprétée comme une transition de phase corrélationnelle, détectable par invariants quantitatifs (pureté, entropie, OTOC, signatures topologiques).
->  Trois lois falsifiables relient complexité, accidents CFS et constante cosmologique. Ce cadre offre des signatures observationnelles testables (CMB, LSS, ondes gravitationnelles),
->  constituant une alternative aux approches LQG et cordes*
+> *Ce texte propose une reformulation de la mesure quantique comme un acte de création logique, et non comme un effondrement destructeur.
+> En utilisant la théorie des topos, une mesure est modélisée par un morphisme géométrique qui transforme le topos initial en un topos « slice » localisé
+>  où le résultat devient décidable (booléen) dans son contexte. Cette opération est atemporelle, augmente l'information logique disponible (ΔI = -log μ(U)) et
+>  est compatible avec une interprétation contextuelle de contraintes fondamentales comme l'équation de Wheeler-DeWitt. La mesure enrichit ainsi l'univers des vérités
+>  sans présupposer de temps externe ni violer les théorèmes d'indétermination globaux.*
 
 [![PDF](https://img.shields.io/badge/PDF-English-0b5fff)](./papers/Topos_createur_EN2.pdf)
 [![PDF](https://img.shields.io/badge/PDF-Français-ff486e)](./papers/Topos_createur_FR.pdf)
@@ -171,9 +171,9 @@ Cela permet de relier :
 [![PDF](https://img.shields.io/badge/PDF-English-0b5fff)](./papers/Topos_TimeEmergence_EN.pdf)
 [![PDF](https://img.shields.io/badge/PDF-Français-ff486e)](./papers/Topos_TimeEmergence_FR.pdf)
 ![Tag](https://img.shields.io/badge/Topos-lightgrey)
-![Tag](https://img.shields.io/badge/Causal-Fermion-Systems-lightgrey)
+![Tag](https://img.shields.io/badge/Mesure-créatrice-lightgrey)
 
-
+  
 
 ### 4) The Undecidable Universe and the Creative Act of Measurement:Topos, Decoherence and the Emergence of Time
 
