@@ -145,7 +145,21 @@ Cela permet de relier :
 
 ---
 
-### 3) Topos and Causal Fermion Systems: Undecidability, Decoherence, and the Emergence of Time
+### 1) Towards a Weak WheelerDeWitt Equation
+
+> *Ce papier propose une reformulation faible et contextuelle de l’équation de Wheeler-DeWitt en utilisant les systèmes fermioniques causaux (CFS)
+>  et la théorie des topos. Au lieu d’une équation différentielle forte sur l’espace des métriques, la contrainte devient une condition intégrale
+>  sur la mesure universelle ρ, assurant la cohérence spectrale entre différents contextes (points de vue). Cette approche évite les problèmes techniques
+>  des dérivées fonctionnelles et intègre naturellement l’émergence du temps, l’invariance de jauge et la décohérence.*
+
+[![PDF](https://img.shields.io/badge/PDF-English-0b5fff)](./papers/CFS_Topos_WheelerDeWitt_EN.pdf)
+[![PDF](https://img.shields.io/badge/PDF-Français-ff486e)](./papers/CFS_Topos_WheelerDeWitt_FR.pdf)
+![Tag](https://img.shields.io/badge/Topos-lightgrey)
+![Tag](https://img.shields.io/badge/Wheeler_de_Witt-lightgrey)
+
+---
+
+### 2) Topos and Causal Fermion Systems: Undecidability, Decoherence, and the Emergence of Time
 
 > *Ce texte propose une reformulation de la mesure quantique comme un acte de création logique, et non comme un effondrement destructeur.
 > En utilisant la théorie des topos, une mesure est modélisée par un morphisme géométrique qui transforme le topos initial en un topos « slice » localisé
