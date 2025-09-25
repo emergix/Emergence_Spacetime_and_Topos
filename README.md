@@ -145,6 +145,35 @@ Cela permet de relier :
 
 ---
 
+
+### 10) Topos as a modeling tool for measurement
+
+> *This paper develops the notion of creative measurement, reframing quantum measurement as an act of creation rather than collapse.
+> Using topos theory, a measurement is modeled as a geometric morphism that transforms the pre-measurement topos into one where the result becomes decidable (Boolean) within its context.
+>  This process is atemporal, independent of entropy, and quantifies new logical information via ΔI(U) = –log µ(U). The framework aligns with the Wheeler–DeWitt equation,
+>  where refinement of truths replaces temporal evolution. Applied to Causal Fermion Systems, measurement localizes causal predicates and re-optimizes the action, offering a coherent,
+>  information-theoretic interpretation of quantum measurement.*
+
+[![PDF](https://img.shields.io/badge/PDF-English-0b5fff)](./papers/Topos_createur_EN.pdf)
+[![PDF](https://img.shields.io/badge/PDF-Français-ff486e)](./papers/Topos_createur_FR.pdf)
+![Tag](https://img.shields.io/badge/QuantumMeasurement-lightgrey)
+![Tag](https://img.shields.io/badge/ToposLogic-lightgrey)
+
+
+
+### 10) Topos as a modeling tool for measurement
+
+> *This paper develops the notion of creative measurement, reframing quantum measurement as an act of creation rather than collapse.
+> Using topos theory, a measurement is modeled as a geometric morphism that transforms the pre-measurement topos into one where the result becomes decidable (Boolean) within its context.
+>  This process is atemporal, independent of entropy, and quantifies new logical information via ΔI(U) = –log µ(U). The framework aligns with the Wheeler–DeWitt equation,
+>  where refinement of truths replaces temporal evolution. Applied to Causal Fermion Systems, measurement localizes causal predicates and re-optimizes the action, offering a coherent,
+>  information-theoretic interpretation of quantum measurement.*
+
+[![PDF](https://img.shields.io/badge/PDF-English-0b5fff)](./papers/Topos_createur_EN.pdf)
+[![PDF](https://img.shields.io/badge/PDF-Français-ff486e)](./papers/Topos_createur_FR.pdf)
+![Tag](https://img.shields.io/badge/QuantumMeasurement-lightgrey)
+![Tag](https://img.shields.io/badge/ToposLogic-lightgrey)
+
 **Formulation finale :**  
 
 > Tout topos a une logique interne intuitionniste.  
