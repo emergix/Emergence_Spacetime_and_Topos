@@ -146,7 +146,7 @@ Cela permet de relier :
 ---
 
 
-### 10) Topos as a modeling tool for measurement
+### 10) Topos and Causal Fermion Systems: Undecidability, Decoherence, and the Emergence of Time
 
 > *Ce travail propose un cadre unifié combinant topos et systèmes fermioniques causaux (CFS) pour traiter l’indécidabilité, la décohérence et l’émergence du temps.
 > La logique intuitionniste des topos permet de localiser l’indécidabilité, tandis que la mesure ρ des CFS encode les corrélations fermioniques dont émergent métrique et temps effectif.
