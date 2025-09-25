@@ -156,7 +156,7 @@ Cela permet de relier :
 ---
 ## Indecidabilité et Topoi
 
-### 1) Topoi and Causal Fermion Systems: Undecidability, Decoherence, and the Emergence of Time
+### 1) Topoi and Creation of Information associated with a Mesurement
 
 > *Ce texte propose une reformulation de la mesure quantique comme un acte de création logique, et non comme un effondrement destructeur.
 > En utilisant la théorie des topos, une mesure est modélisée par un morphisme géométrique qui transforme le topos initial en un topos « slice » localisé
