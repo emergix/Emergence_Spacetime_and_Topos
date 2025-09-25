@@ -156,7 +156,7 @@ Cela permet de relier :
 ---
 ## Indecidabilité et Topoi
 
-### 2) Topos and Causal Fermion Systems: Undecidability, Decoherence, and the Emergence of Time
+### 1) Topoi and Causal Fermion Systems: Undecidability, Decoherence, and the Emergence of Time
 
 > *Ce texte propose une reformulation de la mesure quantique comme un acte de création logique, et non comme un effondrement destructeur.
 > En utilisant la théorie des topos, une mesure est modélisée par un morphisme géométrique qui transforme le topos initial en un topos « slice » localisé
@@ -169,9 +169,22 @@ Cela permet de relier :
 ![Tag](https://img.shields.io/badge/Topos-lightgrey)
 ![Tag](https://img.shields.io/badge/Causal-Fermion-Systems-lightgrey)
 
+  
 
+### 2) Undecidability, Topoi, Decoherence and the Emergence of Time : Introduction
 
-### 3) Topos and Causal Fermion Systems: Undecidability, Decoherence, and the Emergence of Time
+> *Ce texte explore l’idée d’un univers fondamentalement indécidable, où la mesure n’est pas un effondrement mais un acte créateur d’information logique.
+>  En combinant topos et systèmes fermioniques causaux (CFS), il propose que le temps et la gravité émergent comme cohérences locales issues de la décohérence,
+> comprise comme transition corrélationnelle. Les constantes fondamentales deviennent des bornes de complexité computationnelle garantissant la faisabilité des lois physiques.
+>  Le temps computationnel est défini comme frontière dynamique entre le « décidé » et l’« indécidable ». Enfin, l’évolution humaine et l’IA participent à une co-création cosmique,
+>  inscrivant l’humanité dans le processus créateur universel.*
+
+[![PDF](https://img.shields.io/badge/PDF-English-0b5fff)](./papers/Indecidabilité_Univers_EN.pdf)
+[![PDF](https://img.shields.io/badge/PDF-Français-ff486e)](./papers/Indecidabilité_Univers_FR.pdf)
+![Tag](https://img.shields.io/badge/Undecidability-lightgrey)
+![Tag](https://img.shields.io/badge/Measurement-lightgrey)
+
+### 3) Topoi and Causal Fermion Systems: Undecidability, Decoherence, and the Emergence of Time
 
 > *Ce travail propose un cadre unifié combinant topos et systèmes fermioniques causaux (CFS) pour traiter l’indécidabilité, la décohérence et l’émergence du temps.
 > La logique intuitionniste des topos permet de localiser l’indécidabilité, tandis que la mesure ρ des CFS encode les corrélations fermioniques dont émergent métrique et temps effectif.
@@ -184,20 +197,6 @@ Cela permet de relier :
 ![Tag](https://img.shields.io/badge/Topos-lightgrey)
 ![Tag](https://img.shields.io/badge/Mesure-créatrice-lightgrey)
 
-  
-
-### 4) The Undecidable Universe and the Creative Act of Measurement:Topos, Decoherence and the Emergence of Time
-
-> *Ce texte explore l’idée d’un univers fondamentalement indécidable, où la mesure n’est pas un effondrement mais un acte créateur d’information logique.
->  En combinant topos et systèmes fermioniques causaux (CFS), il propose que le temps et la gravité émergent comme cohérences locales issues de la décohérence,
-> comprise comme transition corrélationnelle. Les constantes fondamentales deviennent des bornes de complexité computationnelle garantissant la faisabilité des lois physiques.
->  Le temps computationnel est défini comme frontière dynamique entre le « décidé » et l’« indécidable ». Enfin, l’évolution humaine et l’IA participent à une co-création cosmique,
->  inscrivant l’humanité dans le processus créateur universel.*
-
-[![PDF](https://img.shields.io/badge/PDF-English-0b5fff)](./papers/Indecidabilité_Univers_EN.pdf)
-[![PDF](https://img.shields.io/badge/PDF-Français-ff486e)](./papers/Indecidabilité_Univers_FR.pdf)
-![Tag](https://img.shields.io/badge/Undecidability-lightgrey)
-![Tag](https://img.shields.io/badge/Measurement-lightgrey)
 
 **Formulation finale :**  
 
