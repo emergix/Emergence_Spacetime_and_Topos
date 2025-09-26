@@ -143,6 +143,11 @@ Cela permet de relier :
 
 ### 1) Towards a Weak WheelerDeWitt Equation
 
+> *This paper proposes a weak and contextual reformulation of the Wheeler-DeWitt equation using causal fermion systems (CFS) and topos theory.
+>  Instead of a strong differential equation on the space of metrics, the constraint becomes an integral condition on the universal measure ρ,
+>  ensuring spectral coherence across different contexts (points of view). This approach avoids the technical difficulties of functional derivatives
+>  and naturally incorporates the emergence of time, gauge invariance, and decoherence.*
+
 > *Ce papier propose une reformulation faible et contextuelle de l’équation de Wheeler-DeWitt en utilisant les systèmes fermioniques causaux (CFS)
 >  et la théorie des topos. Au lieu d’une équation différentielle forte sur l’espace des métriques, la contrainte devient une condition intégrale
 >  sur la mesure universelle ρ, assurant la cohérence spectrale entre différents contextes (points de vue). Cette approche évite les problèmes techniques
@@ -157,6 +162,12 @@ Cela permet de relier :
 ## Indecidabilité et Topoi
 
 ### 1) The Concepts of Topos and the Creation of Information during a Measurement
+
+*This text proposes a reformulation of quantum measurement as an act of logical creation, rather than a destructive collapse.
+> Using topos theory, a measurement is modeled as a geometric morphism that transforms the initial topos into a localized "slice" topos,
+> where the result becomes decidable (Boolean) within its context. This operation is timeless, increases the available logical information (ΔI = -log μ(U)), and
+> is compatible with a contextual interpretation of fundamental constraints such as the Wheeler-DeWitt equation. Thus, measurement enriches the universe of truths
+> without presupposing an external time or violating global uncertainty principles.*
 
 > *Ce texte propose une reformulation de la mesure quantique comme un acte de création logique, et non comme un effondrement destructeur.
 > En utilisant la théorie des topos, une mesure est modélisée par un morphisme géométrique qui transforme le topos initial en un topos « slice » localisé
@@ -173,6 +184,12 @@ Cela permet de relier :
 
 ### 2) Undecidability, Topoi, Decoherence and the Emergence of Time : Introduction
 
+> *This text explores the idea of ​​a fundamentally undecidable universe, where measurement is not a collapse but a creative act that generates logical information.
+> By combining topos theory and causal fermionic systems (CFS), it proposes that time and gravity emerge as local coherences arising from decoherence,
+>  understood as a correlational transition. Fundamental constants become bounds of computational complexity, guaranteeing the feasibility of physical laws.
+>  Computational time is defined as the dynamic boundary between the "decidable" and the "undecidable." Finally, human evolution and artificial intelligence participate
+>  in a cosmic co-creation, thus integrating humanity into the universal creative process.*
+
 > *Ce texte explore l’idée d’un univers fondamentalement indécidable, où la mesure n’est pas un effondrement mais un acte créateur d’information logique.
 >  En combinant topos et systèmes fermioniques causaux (CFS), il propose que le temps et la gravité émergent comme cohérences locales issues de la décohérence,
 > comprise comme transition corrélationnelle. Les constantes fondamentales deviennent des bornes de complexité computationnelle garantissant la faisabilité des lois physiques.
@@ -185,6 +202,13 @@ Cela permet de relier :
 ![Tag](https://img.shields.io/badge/Measurement-lightgrey)
 
 ### 3) Topoi and Causal Fermion Systems: Undecidability, Decoherence, and the Emergence of Time
+
+> *This work proposes a unified framework combining topos theory and causal fermionic systems (CFS) to address undecidability, decoherence,
+>  and the emergence of time. Intuitionistic logic within topos theory allows for the localization of undecidability,
+>  while the ρ-measure in CFS encodes fermionic correlations from which the metric and effective time emerge.
+>  Decoherence is interpreted as a correlational phase transition, detectable through quantitative invariants (purity, entropy,
+>  OTOC, topological signatures). Three falsifiable laws relate complexity, CFS singularities, and the cosmological constant.
+>  This framework offers testable observational signatures (CMB, LSS, gravitational waves), constituting an alternative to LQG and string theory approaches.*
 
 > *Ce travail propose un cadre unifié combinant topos et systèmes fermioniques causaux (CFS) pour traiter l’indécidabilité, la décohérence et l’émergence du temps.
 > La logique intuitionniste des topos permet de localiser l’indécidabilité, tandis que la mesure ρ des CFS encode les corrélations fermioniques dont émergent métrique et temps effectif.
